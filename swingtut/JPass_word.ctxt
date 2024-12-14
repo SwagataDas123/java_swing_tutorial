@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JPass_word
+comment1.params=
+comment1.target=JPass_word()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ show()
+numComments=5
